@@ -17,5 +17,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/gensior/pulpAPI/issues"
+  },
+  "dependencies": {
+    "hapi": "~1.9.6"
   }
 }
