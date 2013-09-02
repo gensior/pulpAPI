@@ -6,7 +6,7 @@
         "node": ">=0.10.5"
     },
     "dependencies": {
-        "hapi": "1.8.x",
+        "hapi": "1.9.x",
         "lout": "0.4.x",
         "handlebars": "1.0.x"
     },
